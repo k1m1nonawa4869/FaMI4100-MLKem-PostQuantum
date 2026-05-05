@@ -1,0 +1,2 @@
+# FaMI4100-MLKem-PostQuantum
+This repo aims to build the ML-KEM encryption (old name CRYSTALKyber, standardized name FIPS203). A lattice approach based on module learning with errors (M-LWE) problem, it is a key encapsulation mechanism (KEM) designed to be resistant to cryptanalytic attacks with future powerful quantum computers. This won NIST competition for the first post-quantum cryptography (PQC) standard.

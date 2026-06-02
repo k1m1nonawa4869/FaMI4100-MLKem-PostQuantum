@@ -1,0 +1,6 @@
+references/
+.agents/
+.vscode
+__pycache__/
+*.py[cod]
+__init__.py
